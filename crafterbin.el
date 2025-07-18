@@ -40,7 +40,7 @@
 
 (defun crafterbin-upload-file (file)
   "Upload FILE to CrafterBin."
-  (interactive "fFile to upload: ")
+  (interactive "File to upload: ")
   (message "Uploading to CrafterBin at %s..." crafterbin-url)
   
   ;; Check if curl is available
