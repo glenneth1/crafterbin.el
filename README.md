@@ -70,4 +70,4 @@ This project is maintained by Glenn Thompson.
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request on [Codeberg](https://codeberg.org).
+Contributions are welcome! Please feel free to submit a Pull Request on [GitHub](https://github.com/glenneth1/crafterbin.el).
